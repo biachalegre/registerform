@@ -1,4 +1,4 @@
-package br.com.biachalegre.registerform;
+package br.com.biachalegre.registerform.modules;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
